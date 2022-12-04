@@ -1,0 +1,19 @@
+/* html, body {  width: 100%; margin: 0; }
+/* div { height: 100%; width: 100%; background: #F52887; } */
+.container {
+    height: 90vh;
+    border-radius: 12px;
+}
+.table {
+    text-align: center;
+}
+/* .del{
+    text-align: right;
+} */
+/* li {
+    list-style-type: none;
+    text-align: center;
+} */
+/* ul{
+    width: 97%;
+} */ 
